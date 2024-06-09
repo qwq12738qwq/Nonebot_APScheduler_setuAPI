@@ -1,0 +1,2 @@
+# Nonebot_APScheduler_setuAPI
+定时获取LoliconAPI并发送到群
