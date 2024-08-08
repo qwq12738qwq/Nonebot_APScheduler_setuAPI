@@ -3,7 +3,7 @@ from pydantic import BaseSettings
 class Config(BaseSettings):
     api_url: str = 'https://api.lolicon.app/setu/v2'
     # 群号,目前只能一个群
-    group_id: int = 976025391
+    group_id: int = 
     # 时间(时:分)
     hour = '12'
     min = '00'
