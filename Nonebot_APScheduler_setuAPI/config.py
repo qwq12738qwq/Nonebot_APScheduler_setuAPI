@@ -8,6 +8,7 @@ class Config(BaseSettings):
     hour = '12'
     min = '00'
     # Lolicon.API,配置去看https://api.lolicon.app/#/setu
+    # r18: 0关闭 1开启 2混合, 建议修改成0
     data = {
         "r18": 2,
         "num": 1,
